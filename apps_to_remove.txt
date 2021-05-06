@@ -35,3 +35,4 @@ com.google.android.apps.docs.editors.slides
 com.google.android.apps.docs.editors.sheets
 com.android.hotwordenrollment.xgoogle
 com.google.android.youtube
+com.android.gallery3d
